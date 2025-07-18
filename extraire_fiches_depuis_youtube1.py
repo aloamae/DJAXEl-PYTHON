@@ -308,13 +308,19 @@ def main():
         print(f"🎵 Fichiers générés: {len(generated_files)}")
         
         # Afficher message de succès
-        if 'tkinter' in sys.modules:
-            messagebox.showinfo("Succès", f"Extraction terminée!\n\nFichiers générés: {len(generated_files)}\nDossier: {output_dir}")
+        try:
+            if 'tkinter' in sys.modules:
+                messagebox.showinfo("Succès", f"Extraction terminée!\n\nFichiers générés: {len(generated_files)}\nDossier: {output_dir}")
+        except:
+            pass  # Ignorer les erreurs d'interface graphique
         
     except Exception as e:
         print(f"❌ Erreur: {str(e)}")
-        if 'tkinter' in sys.modules:
-            messagebox.showerror("Erreur", f"Erreur lors de l'extraction:\n{str(e)}")
+        try:
+            if 'tkinter' in sys.modules:
+                messagebox.showerror("Erreur", f"Erreur lors de l'extraction:\n{str(e)}")
+        except:
+            pass  # Ignorer les erreurs d'interface graphique
 
 if __name__ == "__main__":
     main()
