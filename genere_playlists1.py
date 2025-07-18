@@ -340,13 +340,19 @@ def main():
         print(f"  📋 {complete_playlist}: {len(all_songs)} morceaux")
         
         # Afficher message de succès
-        if 'tkinter' in sys.modules:
-            messagebox.showinfo("Succès", f"Playlists générées!\n\nMorceaux: {len(songs)}\nPlaylists: {total_playlists}\nDossier: {output_dir}")
+        try:
+            if 'tkinter' in sys.modules:
+                messagebox.showinfo("Succès", f"Playlists générées!\n\nMorceaux: {len(songs)}\nPlaylists: {total_playlists}\nDossier: {output_dir}")
+        except:
+            pass  # Ignorer les erreurs d'interface graphique
         
     except Exception as e:
         print(f"❌ Erreur: {str(e)}")
-        if 'tkinter' in sys.modules:
-            messagebox.showerror("Erreur", f"Erreur lors de la génération:\n{str(e)}")
+        try:
+            if 'tkinter' in sys.modules:
+                messagebox.showerror("Erreur", f"Erreur lors de la génération:\n{str(e)}")
+        except:
+            pass  # Ignorer les erreurs d'interface graphique
 
 if __name__ == "__main__":
     main()
