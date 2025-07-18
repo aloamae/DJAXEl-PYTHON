@@ -1,0 +1,45 @@
+# Exemple de liste de chansons pour Assistant DJ
+# Format: Artiste - Titre ou Titre par Artiste
+# Lignes commençant par # sont des commentaires
+
+# Disco Classique
+Abba - Gimme! Gimme! Gimme! (A Man After Midnight)
+Bee Gees - Stayin' Alive
+Chic - Le Freak
+Donna Summer - I Feel Love
+Gloria Gaynor - I Will Survive
+
+# Pop des années 80
+Madonna - Like a Virgin
+Michael Jackson - Billie Jean
+Prince - Purple Rain
+Cyndi Lauper - Girls Just Want to Have Fun
+Whitney Houston - I Wanna Dance with Somebody
+
+# Rock Classique
+Queen - Don't Stop Me Now
+The Beatles - Come Together
+Led Zeppelin - Whole Lotta Love
+AC/DC - Highway to Hell
+The Rolling Stones - Paint It Black
+
+# Electronic/Dance
+Daft Punk - One More Time
+The Prodigy - Firestarter
+Fatboy Slim - Praise You
+Basement Jaxx - Where's Your Head At
+Justice - D.A.N.C.E.
+
+# Hip-Hop
+Grandmaster Flash - The Message
+Run-DMC - Walk This Way
+Public Enemy - Fight the Power
+Naughty by Nature - Hip Hop Hooray
+House of Pain - Jump Around
+
+# R&B/Soul
+Stevie Wonder - Superstition
+Marvin Gaye - What's Going On
+Aretha Franklin - Respect
+James Brown - Get Up (I Feel Like Being a) Sex Machine
+Earth, Wind & Fire - September
