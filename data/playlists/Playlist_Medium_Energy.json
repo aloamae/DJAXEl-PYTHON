@@ -1,7 +1,7 @@
 {
   "name": "Playlist_Medium_Energy",
-  "created": "2025-07-18T20:41:44.000906",
-  "total_songs": 60,
+  "created": "2025-07-18T20:42:49.886866",
+  "total_songs": 90,
   "songs": [
     {
       "title": "What's Going On",
@@ -19,6 +19,21 @@
       "date_added": "2025-07-18"
     },
     {
+      "title": "D.A.N.C.E.",
+      "artist": "Justice",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Justice - D.A.N.C.E..mp3",
+      "date_added": "2025-07-18"
+    },
+    {
       "title": "Respect",
       "artist": "Aretha Franklin",
       "bpm": 120,
@@ -31,6 +46,36 @@
         "test"
       ],
       "file_path": "mp3/Aretha Franklin - Respect.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Respect",
+      "artist": "Aretha Franklin",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Aretha Franklin - Respect.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Fight the Power",
+      "artist": "Public Enemy",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Public Enemy - Fight the Power.mp3",
       "date_added": "2025-07-18"
     },
     {
@@ -49,6 +94,21 @@
       "date_added": "2025-07-18"
     },
     {
+      "title": "Like a Virgin",
+      "artist": "Madonna",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Madonna - Like a Virgin.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
       "title": "The Message",
       "artist": "Grandmaster Flash",
       "bpm": 120,
@@ -61,6 +121,21 @@
         "test"
       ],
       "file_path": "mp3/Grandmaster Flash - The Message.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Purple Rain",
+      "artist": "Prince",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Prince - Purple Rain.mp3",
       "date_added": "2025-07-18"
     },
     {
@@ -139,8 +214,8 @@
       "date_added": "2025-07-18"
     },
     {
-      "title": "Get Up (I Feel Like Being a) Sex Machine",
-      "artist": "James Brown",
+      "title": "Stayin' Alive",
+      "artist": "Bee Gees",
       "bpm": 120,
       "key": "A",
       "energy": 5,
@@ -150,7 +225,7 @@
       "tags": [
         "test"
       ],
-      "file_path": "mp3/James Brown - Get Up (I Feel Like Being a) Sex Machine.mp3",
+      "file_path": "mp3/Bee Gees - Stayin' Alive.mp3",
       "date_added": "2025-07-18"
     },
     {
@@ -166,51 +241,6 @@
         "test"
       ],
       "file_path": "mp3/James Brown - Get Up (I Feel Like Being a) Sex Machine.mp3",
-      "date_added": "2025-07-18"
-    },
-    {
-      "title": "Like a Virgin",
-      "artist": "Madonna",
-      "bpm": 120,
-      "key": "A",
-      "energy": 5,
-      "genres": [
-        "Pop"
-      ],
-      "tags": [
-        "test"
-      ],
-      "file_path": "mp3/Madonna - Like a Virgin.mp3",
-      "date_added": "2025-07-18"
-    },
-    {
-      "title": "Le Freak",
-      "artist": "Chic",
-      "bpm": 120,
-      "key": "A",
-      "energy": 5,
-      "genres": [
-        "Pop"
-      ],
-      "tags": [
-        "test"
-      ],
-      "file_path": "mp3/Chic - Le Freak.mp3",
-      "date_added": "2025-07-18"
-    },
-    {
-      "title": "Superstition",
-      "artist": "Stevie Wonder",
-      "bpm": 120,
-      "key": "A",
-      "energy": 5,
-      "genres": [
-        "Pop"
-      ],
-      "tags": [
-        "test"
-      ],
-      "file_path": "mp3/Stevie Wonder - Superstition.mp3",
       "date_added": "2025-07-18"
     },
     {
@@ -229,6 +259,126 @@
       "date_added": "2025-07-18"
     },
     {
+      "title": "Get Up (I Feel Like Being a) Sex Machine",
+      "artist": "James Brown",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/James Brown - Get Up (I Feel Like Being a) Sex Machine.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Get Up (I Feel Like Being a) Sex Machine",
+      "artist": "James Brown",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/James Brown - Get Up (I Feel Like Being a) Sex Machine.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Like a Virgin",
+      "artist": "Madonna",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Madonna - Like a Virgin.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Le Freak",
+      "artist": "Chic",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Chic - Le Freak.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Superstition",
+      "artist": "Stevie Wonder",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Stevie Wonder - Superstition.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Le Freak",
+      "artist": "Chic",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Chic - Le Freak.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Marvin Gaye - What's Going On.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Cyndi Lauper",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Cyndi Lauper - Girls Just Want to Have Fun.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
       "title": "Come Together",
       "artist": "The Beatles",
       "bpm": 120,
@@ -289,6 +439,21 @@
       "date_added": "2025-07-18"
     },
     {
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Michael Jackson - Billie Jean.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
       "title": "D.A.N.C.E.",
       "artist": "Justice",
       "bpm": 120,
@@ -304,6 +469,21 @@
       "date_added": "2025-07-18"
     },
     {
+      "title": "Paint It Black",
+      "artist": "The Rolling Stones",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/The Rolling Stones - Paint It Black.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
       "title": "Firestarter",
       "artist": "The Prodigy",
       "bpm": 120,
@@ -316,6 +496,36 @@
         "test"
       ],
       "file_path": "mp3/The Prodigy - Firestarter.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Highway to Hell",
+      "artist": "AC/DC",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/AC_DC - Highway to Hell.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Where's Your Head At",
+      "artist": "Basement Jaxx",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Basement Jaxx - Where's Your Head At.mp3",
       "date_added": "2025-07-18"
     },
     {
@@ -364,6 +574,66 @@
       "date_added": "2025-07-18"
     },
     {
+      "title": "Whole Lotta Love",
+      "artist": "Led Zeppelin",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Led Zeppelin - Whole Lotta Love.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Firestarter",
+      "artist": "The Prodigy",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/The Prodigy - Firestarter.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Superstition",
+      "artist": "Stevie Wonder",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Stevie Wonder - Superstition.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "September",
+      "artist": "Earth, Wind & Fire",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Earth, Wind & Fire - September.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
       "title": "Fight the Power",
       "artist": "Public Enemy",
       "bpm": 120,
@@ -376,6 +646,36 @@
         "test"
       ],
       "file_path": "mp3/Public Enemy - Fight the Power.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "I Feel Love",
+      "artist": "Donna Summer",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Donna Summer - I Feel Love.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Jump Around",
+      "artist": "House of Pain",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/House of Pain - Jump Around.mp3",
       "date_added": "2025-07-18"
     },
     {
@@ -439,6 +739,36 @@
       "date_added": "2025-07-18"
     },
     {
+      "title": "Hip Hop Hooray",
+      "artist": "Naughty by Nature",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Naughty by Nature - Hip Hop Hooray.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "I Will Survive",
+      "artist": "Gloria Gaynor",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Gloria Gaynor - I Will Survive.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
       "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "artist": "Abba",
       "bpm": 120,
@@ -481,6 +811,21 @@
         "test"
       ],
       "file_path": "mp3/Gloria Gaynor - I Will Survive.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artist": "Abba",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Abba - Gimme! Gimme! Gimme! (A Man After Midnight).mp3",
       "date_added": "2025-07-18"
     },
     {
@@ -541,6 +886,21 @@
         "test"
       ],
       "file_path": "mp3/Michael Jackson - Billie Jean.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "One More Time",
+      "artist": "Daft Punk",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Daft Punk - One More Time.mp3",
       "date_added": "2025-07-18"
     },
     {
@@ -616,6 +976,21 @@
         "test"
       ],
       "file_path": "mp3/Fatboy Slim - Praise You.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "The Message",
+      "artist": "Grandmaster Flash",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Grandmaster Flash - The Message.mp3",
       "date_added": "2025-07-18"
     },
     {
@@ -724,6 +1099,21 @@
       "date_added": "2025-07-18"
     },
     {
+      "title": "I Wanna Dance with Somebody",
+      "artist": "Whitney Houston",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Whitney Houston - I Wanna Dance with Somebody.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
       "title": "Come Together",
       "artist": "The Beatles",
       "bpm": 120,
@@ -736,6 +1126,21 @@
         "test"
       ],
       "file_path": "mp3/The Beatles - Come Together.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Queen - Don't Stop Me Now.mp3",
       "date_added": "2025-07-18"
     },
     {
@@ -811,6 +1216,21 @@
         "test"
       ],
       "file_path": "mp3/Abba - Gimme! Gimme! Gimme! (A Man After Midnight).mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Walk This Way",
+      "artist": "Run-DMC",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Run-DMC - Walk This Way.mp3",
       "date_added": "2025-07-18"
     },
     {
@@ -901,6 +1321,36 @@
         "test"
       ],
       "file_path": "mp3/The Prodigy - Firestarter.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Come Together",
+      "artist": "The Beatles",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/The Beatles - Come Together.mp3",
+      "date_added": "2025-07-18"
+    },
+    {
+      "title": "Praise You",
+      "artist": "Fatboy Slim",
+      "bpm": 120,
+      "key": "A",
+      "energy": 5,
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "test"
+      ],
+      "file_path": "mp3/Fatboy Slim - Praise You.mp3",
       "date_added": "2025-07-18"
     }
   ]
