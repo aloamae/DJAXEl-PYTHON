@@ -243,13 +243,19 @@ def main():
         print(f"🎶 Genres identifiés: {total_genres}")
         
         # Afficher message de succès
-        if 'tkinter' in sys.modules:
-            messagebox.showinfo("Succès", f"Set DJ généré!\n\nMorceaux: {total_songs}\nGenres: {total_genres}\nFichier: {output_file}")
+        try:
+            if 'tkinter' in sys.modules:
+                messagebox.showinfo("Succès", f"Set DJ généré!\n\nMorceaux: {total_songs}\nGenres: {total_genres}\nFichier: {output_file}")
+        except:
+            pass  # Ignorer les erreurs d'interface graphique
         
     except Exception as e:
         print(f"❌ Erreur: {str(e)}")
-        if 'tkinter' in sys.modules:
-            messagebox.showerror("Erreur", f"Erreur lors de la génération:\n{str(e)}")
+        try:
+            if 'tkinter' in sys.modules:
+                messagebox.showerror("Erreur", f"Erreur lors de la génération:\n{str(e)}")
+        except:
+            pass  # Ignorer les erreurs d'interface graphique
 
 if __name__ == "__main__":
     main()
