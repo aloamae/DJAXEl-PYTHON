@@ -24,7 +24,8 @@ def demo_complete():
     print("   4. Génération des playlists")
     print("   5. Affichage des statistiques")
     
-    input("\n⏯️  Appuyez sur Entrée pour commencer...")
+    # input("\n⏯️  Appuyez sur Entrée pour commencer...")
+    print("\n⏯️  Démarrage automatique de la démonstration...")
     
     # Exécuter le test complet
     print("\n🚀 Lancement de la démonstration...")
